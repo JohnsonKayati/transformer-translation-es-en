@@ -1,0 +1,15 @@
+# Ignore the entire Dataset folder
+Dataset/
+
+# Ignore the large CSV file
+50M_train.csv
+
+# Ignore specific notebook file inside Train/
+Train/translation_model_dev.ipynb
+
+# Recommended Python ignores
+__pycache__/
+*.py[cod]
+
+# VSCode settings (optional)
+.vscode/
