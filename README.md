@@ -21,7 +21,7 @@ This project implements a **Spanish-to-English neural machine translation model*
 
 ##  Model Hosting Notice
 
-> ⚠ Due to GitHub's 100MB file limit, the final trained model (`GPT_translation_7.0.pt`, ~550MB) could not be uploaded to this repository.
+>  Due to GitHub's 100MB file limit, the final trained model (`GPT_translation_7.0.pt`, ~550MB) could not be uploaded to this repository.
 
 If you'd like access to the model file or earlier checkpoints, feel free to reach out or open an issue — alternate download links (e.g., Google Drive or Hugging Face) may be provided.
 
